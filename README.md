@@ -2,7 +2,7 @@
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+##  ENGLISH VERSION
 
 **ZapCat** is a modern, user-friendly graphical user interface (GUI) for the **Zapret** DPI bypass utility. Built with HTML, CSS, JavaScript, and powered by a Python backend via `pywebview`, ZapCat brings a sleek winter-themed UI and an interactive mascot to make managing DPI strategies simple and enjoyable.
 
@@ -50,7 +50,7 @@ If the DPI bypass is not working properly, failing to start, or stuck in a loadi
 ---
 ---
 
-## 🇷🇺 РУССКАЯ ВЕРСИЯ
+##  РУССКАЯ ВЕРСИЯ
 
 **ZapCat** — это современный и удобный графический интерфейс (GUI) для утилиты обхода блокировок **Zapret**. Написан на HTML, CSS, JavaScript и работает на базе Python через `pywebview`. Программа предлагает уютную зимнюю тему и интерактивного кота-маскота, делая управление стратегиями обхода простым и приятным.
 
